@@ -1,5 +1,4 @@
-<h2> Hi, I'm Putri <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" widht="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<h2> Hi, I'm Putri <img src="https://media1.tenor.com/m/B2Tl21NwH_0AAAAC/animated-cat.gif" width="50"></h2>
 
 
 
