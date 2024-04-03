@@ -2,8 +2,8 @@
 
 I'm a Data Analyst and Machine Learning Engineer.
 
-Knows me more:
-* ⚙️ Tools: Vscode, Power BI, Tableau, Excell
+### 🌱 A little more about me 
+* ⚙️ Tools: Vscode, Power BI, Tableau, Excel
 * 💬 Programming Lg: Python, SQL
 
 👯 I love connecting with different people so if you want to say hi, I'll be happy to meet you more! 
