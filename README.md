@@ -1,4 +1,4 @@
-### Hi there 👋
+<h2> Hi, I'm Putri <img src="https://tenor.com/NwpmySSEFJ.gif" widht=50> </h2>
 
 <!--
 **ptrizii/ptrizii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
